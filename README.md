@@ -55,6 +55,14 @@
 
 ---
 
+## Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayme-santos"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Jayme Santos" /></a>
+</p>
+
+---
+
 <p align="center">Explore meus repositórios para conhecer os projetos e suas documentações.</p>
 
 <p align="center">
